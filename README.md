@@ -1,6 +1,6 @@
 ########################################################################
-                        rhomb.io s400 core series
-                       For Renesas RZ/A1H -RZ/A1M
+#                        rhomb.io s400 core series
+#                       For Renesas RZ/A1H -RZ/A1M
 # Source Github: https://github.com/renesas-rz/rza_u-boot-2017.05.git
 #
 # Created board/rhombio/s400rhombrza1
